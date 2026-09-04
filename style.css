@@ -1,0 +1,27 @@
+*{background : purple;
+}
+.cup{
+    width :200px;
+    height : 300px ;
+    border :3px solid black ;
+    border-radius :600px;
+    box-shadow:5px 5px 10px #ffaaca; 
+}
+.fire{
+    width :300px;
+    height :300px;
+    border :5px purple ;
+    box-shadow :10px 5px 5px gold ;
+}
+h1{background:#ee6aff;}
+h2{background:#f4aaff;}
+p{background:#ff80dd;
+text-align: center ;
+}
+li {
+    text-align : center ;
+    font-style :Italic;
+    color:#ff95e7;
+   }
+
+   
